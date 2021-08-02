@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @h-looney
+- 👀 I’m interested in ... Software development
+- 🌱 I’m currently learning ... Early programming skills (just finished up with Python)
+- 📫 How to reach me ... email - holdenlooney62@yahoo.com
