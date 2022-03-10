@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @h-looney
 - 👀 I’m interested in ... Software development
-- 🌱 I’m currently learning ... Early programming and IT skills (just finished up with C#)
+- 🌱 I’m currently learning ... Early programming and IT skills (working on Java, mongodb, SQL, PHP, and cybersecurity practices)
 - 📫 How to reach me ... email - holdenlooney62@yahoo.com
 - Check out the little portfolio website I've been working on! https://h-looney.github.io/portfoliosite/
